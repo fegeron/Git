@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="f7c8605e-7893-4e45-a636-199803395bb4" configVersion="920df23057aff043a1b2547a41432fc100000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.Вид" id="5838bb7c-e064-4568-847a-28b5a84480a3"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ФИО" id="65e78ed6-333e-4b33-9662-9b41bb0e11bb"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты.Predefined" id="f7c8605e-7893-4e45-a636-199803395bb4.1c" configVersion="5c205e64ba134b4f8aee717f3c6ff4e200000000"/>
+		<Metadata name="Catalog.Подразделения" id="bf9826ae-53cf-46ef-bf84-6b7670afe3c7" configVersion="2af9ab80ba25d04a906b50221cd2b8d600000000"/>
+		<Metadata name="Catalog.Справочник1" id="85e91eb1-27b1-4433-b406-ed3669ed71f9" configVersion="b836a5259cd6814fa0c3f08b789dfaa300000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Авток" id="e1195493-bc3c-4687-8118-24482d700098"/>
+		</Metadata>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8" configVersion="35c9d69172cf544baf02a41b1f6b8ae900000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8.0" configVersion="4be99f3348a3f94d81e33890e5490b9500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="aff9eaf3-2660-4ba7-ad5c-ece8d6ed5de7" configVersion="88ec336c11be004ba470fabda8ca52c500000000"/>
+		<Metadata name="Document.Документ1" id="f876c24e-eb15-48c5-858f-fd383bfaf6ec" configVersion="1bc729ecda29024998fc95d994f1fda800000000"/>
+		<Metadata name="Enum.Перечисление1" id="defa4511-ccbb-4876-b872-048868b2234a" configVersion="04af176d056fc14d9badd72c4c19f3a800000000">
+			<Metadata name="Enum.Перечисление1.EnumValue.Контр" id="3a3dd8a0-6dfa-4088-8ed0-4bcbfcd1e82d"/>
+			<Metadata name="Enum.Перечисление1.EnumValue.Подр" id="6369f632-4524-4659-bb74-3e958153d785"/>
+		</Metadata>
+		<Metadata name="InformationRegister.РегистрСведений1" id="9220060f-9c7b-4fae-bc20-14b8d2195903" configVersion="8fb9f4a74d0a6640a55b7afee9324e7f00000000">
+			<Metadata name="InformationRegister.РегистрСведений1.Dimension.Вид" id="5e96b6c5-a827-47a3-8292-0427afd5f3d6"/>
+			<Metadata name="InformationRegister.РегистрСведений1.Resource.Значение" id="74db300e-147e-4d1a-99de-8735add85fe5"/>
+		</Metadata>
+		<Metadata name="InformationRegister.РегистрСведений2" id="e1546b6e-1f89-4eaa-a1e5-3a5b53ea0ef0" configVersion="37ac991e2b65964284ffab17dc9106c800000000">
+			<Metadata name="InformationRegister.РегистрСведений2.Dimension.Измерение1" id="603d461e-e832-4fac-98dc-b9f7136af377"/>
+			<Metadata name="InformationRegister.РегистрСведений2.Resource.Ресурс1" id="e9558807-12bf-4c44-b7b5-df79db8ec288"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="af4f2600-e046-42b8-853a-4d86f776502d" configVersion="f7df6fcb944b484583583055f55a280c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
