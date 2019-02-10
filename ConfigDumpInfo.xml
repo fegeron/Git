@@ -7,11 +7,12 @@
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.Predefined" id="f7c8605e-7893-4e45-a636-199803395bb4.1c" configVersion="5c205e64ba134b4f8aee717f3c6ff4e200000000"/>
 		<Metadata name="Catalog.Подразделения" id="bf9826ae-53cf-46ef-bf84-6b7670afe3c7" configVersion="2af9ab80ba25d04a906b50221cd2b8d600000000"/>
-		<Metadata name="Catalog.Справочник1" id="85e91eb1-27b1-4433-b406-ed3669ed71f9" configVersion="b836a5259cd6814fa0c3f08b789dfaa300000000">
+		<Metadata name="Catalog.Справочник1" id="85e91eb1-27b1-4433-b406-ed3669ed71f9" configVersion="17ee5c07c13afe43b410794e387eb84100000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Атов2" id="d32cb804-b0b8-4d75-aa10-8f1638a7b112"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Авток" id="e1195493-bc3c-4687-8118-24482d700098"/>
 		</Metadata>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8" configVersion="35c9d69172cf544baf02a41b1f6b8ae900000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8.0" configVersion="4be99f3348a3f94d81e33890e5490b9500000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8" configVersion="44e51d5b3c88cc4698d6052a35c8a78700000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="264d67dc-bf38-41d2-b602-54f4fe4a04a8.0" configVersion="70cf36bcc7bdb14fa00c956f7fe3ac7100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="aff9eaf3-2660-4ba7-ad5c-ece8d6ed5de7" configVersion="88ec336c11be004ba470fabda8ca52c500000000"/>
 		<Metadata name="Document.Документ1" id="f876c24e-eb15-48c5-858f-fd383bfaf6ec" configVersion="1bc729ecda29024998fc95d994f1fda800000000"/>
 		<Metadata name="Enum.Перечисление1" id="defa4511-ccbb-4876-b872-048868b2234a" configVersion="04af176d056fc14d9badd72c4c19f3a800000000">
